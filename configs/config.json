@@ -1,0 +1,21 @@
+{
+  "baseURL": "http://localhost:1313",
+  "params": {
+     "AuthorName": "Jon Doe",
+     "GitHubUser": "spf13",
+     "ListOfFoo": [
+        "foo1",
+        "foo2"
+     ],
+     "SidebarRecentLimit": 5,
+     "Subtitle": "Hugo is Absurdly Fast!"
+  },
+  "permalinks": {
+     "posts": "/:year/:month/:title/"
+  },
+  "title": "My Hugo Site 4 DnD",
+  "theme": "terminal",
+  "paginate": 2,
+  "Copyright": "© Yuanyuan GE 2020",
+  "languageCode": "en-us"
+}
